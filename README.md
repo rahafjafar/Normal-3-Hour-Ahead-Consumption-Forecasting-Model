@@ -1,4 +1,4 @@
-# Normal-3-Hour-Ahead-Consumption-Forecasting-Model
+
 # 3-Hour Water Consumption Forecasting Model
 
 ## Overview
